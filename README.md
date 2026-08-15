@@ -6,9 +6,9 @@ Three tested Python tools that connect privacy, performance reporting and biling
 
 | # | Project | Practical outcome |
 |---|---|---|
-| 18 | [Confidentiality Redactor](labs/confidentiality-redactor/README.md) | Redacts common sensitive tokens and organization-specific terms. |
-| 19 | [KPI Report Generator](labs/kpi-report-generator/README.md) | Summarizes a numeric indicator and compares it with an explicit target. |
-| 20 | [Bilingual Template Manager](labs/bilingual-template-manager/README.md) | Keeps French and English templates aligned and safely renders required fields. |
+| 18 | **Confidentiality Redactor** | Redacts common sensitive tokens and organization-specific terms. |
+| 19 | **KPI Report Generator** | Summarizes a numeric indicator and compares it with an explicit target. |
+| 20 | **Bilingual Template Manager** | Keeps French and English templates aligned and safely renders required fields. |
 
 ## Run locally
 
